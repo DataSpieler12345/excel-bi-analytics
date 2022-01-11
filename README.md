@@ -6,3 +6,10 @@ Polish your calculations into professional presentations with data visualization
 Master the art and science of Data Modeling in Excel, connecting your datasets from Power Query so they can be analyzed together.
 Proficient in the DAX formula language, to inject more sophisticated calculations and KPIs into your Pivot Tables than you even thought possible.
 Leverage Slicers and Timelines to engineer dynamic dashboards that maximize the amount of information you can present on a single screen.
+
+*Power Query for ETL Operations
+**Pivot Tables
+***The Excel Data Model 
+****Analysing the Data Model With DAX
+*****Advanced DAX
+******Data Visualization 
