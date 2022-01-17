@@ -1,5 +1,8 @@
 # Excel-BI-Analytics
 Config files for my GitHub profile.
+
+Use Power Query, Power Pivot, DAX, & Excel's data visualization tools to build powerful Business Intelligence solutions.
+
 Use Power Query to pull external datasets into Excel, and transform them into whatever shape is needed for your analysis.
 Build "Power" Pivot Tables to rapidly extract insights from your Data Model, whether your data tables have 10 rows or 10 million.
 Polish your calculations into professional presentations with data visualization tools like Pivot Charts and conditional formatting.
