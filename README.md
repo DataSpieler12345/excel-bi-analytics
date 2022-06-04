@@ -18,3 +18,10 @@ Proficient in the DAX formula language, to inject more sophisticated calculation
 ****Analysing the Data Model With DAX
 *****Advanced DAX
 ******Data Visualization Techniques
+
+-------------------
+
+*Case Study Linear Regression - Fake Data
+*Case Study House Price Data Regression Model
+*Case Study HR Analytics
+
