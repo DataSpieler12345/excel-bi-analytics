@@ -24,4 +24,5 @@ Proficient in the DAX formula language, to inject more sophisticated calculation
 *Case Study Linear Regression - Fake Data
 *Case Study House Price Data Regression Model
 *Case Study HR Analytics
-
+*Case Study Customer Life Time Value
+*Microsoft Excel for Business Managers
