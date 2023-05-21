@@ -1,1 +1,0 @@
-select * from Stunden_Table
