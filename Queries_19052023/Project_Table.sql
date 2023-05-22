@@ -1,1 +1,0 @@
-select * from Project_Table
