@@ -1,0 +1,1 @@
+desc.text remote pc 
